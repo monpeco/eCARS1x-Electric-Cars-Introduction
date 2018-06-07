@@ -10,3 +10,14 @@ We have all noticed that electric vehicles are becoming increasingly popular. Th
 
 #### 1. EVs in the Energy Transition   1.1 Technology Perspective of EV   Lecture Notes
 
+A short history of EV
+To get a historical context of the EV development, it is good to see a timeline of EV. The image below presents an overview of the most important dates and events which concern the development of electric vehicles from 1830 to 2016. You can also download the timeline here.
+
+As an important note, battery electric vehicles are often referred to by several names : electric vehicles, plug-in electric vehicles, all electric vehicles or pure electric vehicles. All these names do not have the word ‘hybrid’ in them. We will see next module what these hybrid electric vehicles are.
+
+![history ](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/4c1e6459e8d64169e9de72f0a32f4281/asset-v1:DelftX+eCARS1x+1T2018a+type@asset+block/timeline_history_of_EVs.png)
+
+---
+
+#### 1. EVs in the Energy Transition   1.1 Technology Perspective of EV   Quiz
+
