@@ -21,3 +21,25 @@ As an important note, battery electric vehicles are often referred to by several
 
 #### 1. EVs in the Energy Transition   1.1 Technology Perspective of EV   Quiz
 
+---
+
+#### 1. EVs in the Energy Transition   1.2 Business Perspective of EV   Lecture 2: Business Perspective
+
+Lecture 2: Business Perspective
+
+In the next lecture by Frank G. Rieck, Applied Research Professor - Future Mobility, we will investigate the role of Electric Vehicles (EV) in energy transition from a business perspective. This lecture will help you answer the following questions:
+
+From a business perspective, what are the factors that form the economic triangle?
+How can we safeguard our health and wealth by using affordable clean energy?
+Why should we make the transition to renewable energy?
+What are the solutions for electrification of road transport?
+Why should we switch to Electric Vehicles from Internal combustion vehicles?
+
+Enjoy the lecture!
+
+---
+
+#### 1. EVs in the Energy Transition   1.2 Business Perspective of EV   Lecture Notes
+
+
+
