@@ -41,5 +41,22 @@ Enjoy the lecture!
 
 #### 1. EVs in the Energy Transition   1.2 Business Perspective of EV   Lecture Notes
 
+### Lecture Notes
+
+This MOOC has two types of reading material - obligatory and additional reading material. Please read the obligatory course material carefully. You are free to read the additional material to gain a deeper understanding of the subject. However, the 'additional material' is outside of scheduled study load of 4 hours per week.
+
+Required reading
+The introduction (Section 1) of: [Frank G. Rieck et al.- Automotive, the Future of Mobility](http://pure.tudelft.nl/ws/files/28904823/EVS30_Paper_10310638_Automotive_the_Future_of_Mobility.pdf)
+
+The article above, written by the Frank G.Rieck et al., will be used in two modules: the current module I1 and the upcoming module I3. The article is published in the EVS30 International Battery, Hybrid and Fuel Cell Electric Vehicle Symposium, but you can use the link above to directly download the article. Only the introduction is required reading material.
+
+Additional reading
+You may, of course, read the whole article by Frank G. Rieck et al. on Automotive, the future of Mobility linked to above.
+
+
+---
+
+#### 1. EVs in the Energy Transition   1.2 Business Perspective of EV   Quiz
+
 
 
