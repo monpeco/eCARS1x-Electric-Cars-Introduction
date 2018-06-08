@@ -60,3 +60,26 @@ You may, of course, read the whole article by Frank G. Rieck et al. on Automotiv
 
 
 
+---
+
+#### 1. EVs in the Energy Transition   1.3 Policy Perspective of EV   Lecture 3: Policy Perspective
+
+Lecture 3: Policy Perspective
+
+In the next lecture by Professor Margot Weijnen, we get a glimpse into the world of public policy making and the role of government in promoting electric vehicles. The lecture seeks to give you an overview of the policy dimension of EVs. In module 4 of this course we will explore in greater depth this aspect of public policy initiatives for EVs.  After watching this lecture you should be able to answer the following questions: 
+
+What is the role of the transport sector in the national economy through the example of the Netherlands?
+Why is government intervention necessary in the transition to electric mobility?
+How are the transport and electricity sectors interlinked?
+What is the aim of government intervention in the transport and electricity sector?
+Governments seek to balance conflicting policy goals. How different policy areas require different kinds of intervention?
+
+
+[Lecture 3: Introduction to Policy for EVs](https://youtu.be/112wpfWq-I8)
+
+
+
+---
+
+#### 1. EVs in the Energy Transition   1.3 Policy Perspective of EV   Lecture Notes and Discussion
+
