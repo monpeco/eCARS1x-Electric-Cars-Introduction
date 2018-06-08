@@ -83,3 +83,15 @@ Governments seek to balance conflicting policy goals. How different policy areas
 
 #### 1. EVs in the Energy Transition   1.3 Policy Perspective of EV   Lecture Notes and Discussion
 
+### Lecture Notes and Discussion
+
+So you have just been provided with a host of reasons why government intervention in the transport sector is so essential in this period of transition. But how do different governments react? The answer to this question will indeed depend on which part of the world you are living in. This [link](http://www.eafo.eu/content/netherlands) gives a very nice summary of the status of electric vehicles in the Netherlands. 
+
+
+Scroll down to the bottom of the page and under the heading “Country incentives Netherlands” you can learn how the Dutch government is incentivizing electric vehicles. This is one form of government intervention but nonetheless very important. Well, this is how we do it in the Netherlands, but we’d also like to know what your government is doing to promote electric mobility. We encourage you to share this knowledge with your fellow learners by posting in the discussion forum.
+
+
+---
+
+#### 1. EVs in the Energy Transition   1.3 Policy Perspective of EV   Quiz
+
