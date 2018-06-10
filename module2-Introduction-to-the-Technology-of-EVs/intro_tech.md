@@ -159,6 +159,82 @@ then, let’s look at how does an EV work based on the electrical power flow.
 
 #### 2. Introduction to Technology of EVs   2.1 Operation of an Electric Car and Key Parts   Lecture Notes
 
+### Lecture Notes
+
+**Parts of an EV: Recap**
+
+Below, you can see a summary of the key parts of an EV with simple definitions:
+
+Charging port or vehicle inlet: It is a connector present on the electric vehicle to allow it to be connected to an external source of electricity for charging. 
+
+Power electronic converter: A power electronic converter is made of high power fast-acting semiconductor devices, which act as high-speed switches. Different switching states alter the input voltage and current through the use of capacitive and inductive elements. The result is an output voltage and current, which is at a different level to the input.
+
+On-board charger: It is an AC-to-DC power electronic converter (often referred to as a rectifier) that takes the incoming AC electricity supplied via the charge port and converts it to DC power for charging the traction battery. Using the battery management system, it regulates the battery characteristics such as voltage, current, temperature, and state of charge.
+
+Traction battery pack: It is a high voltage battery used to store energy in the electric car and provide power for use by the electric traction motor.
+
+Battery power converter: It is a DC-to-DC power electronic converter that converts the voltage of the traction battery pack to the higher-voltage of the DC-bus used for power exchange with the traction motor.
+
+Motor drive: It is a DC-to-AC (often referred to as inverter or the variable frequency drive) or at times a DC-to-DC power electronic converter, used to convert power from the high voltage DC bus to AC (or at times DC) power for the operation of motor. The converter is bidirectional for operating in both driving and regenerative braking mode.  
+
+Traction electric motor/generator: It is the main propulsion device in an electric car that converts electrical energy from the traction battery to mechanical energy for rotating the wheels. It also generates electricity by extracting energy from the rotating wheels while braking, and transferring that energy back to the traction battery pack. 
+
+Transmission: For an electric car, usually a single gear transmission with differential is used to transfer mechanical power from the traction motor to drive the wheels.
+
+Power electronics controller: This unit controls the flow of electrical power in the different power electronic converters in the electric car.
+
+Battery (auxiliary): In an electric drive vehicle, the auxiliary battery provides electricity to start the car before the traction battery is engaged and is also used to power the vehicle accessories.
 
 
+### EV parameters: Capacity, state of charge, range, energy consumption, power, torque 
+
+Now that we know the key parts of an EV and how it functions, it is time to learn about a few important parameters for understanding electric cars. These are the battery capacity, state of charge, range, energy consumption per kilometer, MPGe and motor power. Let us now define these terms:
+
+1. Nominal battery capacity (Enom, in Wh or kWh): It is total electric energy that can be stored in the battery. Alternately, it is the maximum amount of electric energy that can be extracted from a fully charged battery state to the empty state. 
+
+Generally speaking, EV batteries have a battery capacity between 5 kWh to 100 kWh depending on the type of EV. The higher the battery capacity, the more energy it can store and the longer the time it takes to fully charge it. The battery capacity is often referred to as the energy content or energy capacity of the battery. 
+
+2. State of charge, SOC (BSOC, in %): The battery state of charge (SoC) is defined as the ratio between the amount of energy currently stored in the battery, Ebatt and the total battery capacity, Enom 
+
+    BSOC=(Ebatt/Enom) 100
+
+3. Range (Rmax, in km): It is the maximum distance that can be driven by an electric car when the battery is full. Usually an electric car is tested using a standardized driving cycle to estimate the range, e.g. New European Driving Cycle (NEDC), Worldwide harmonized Light vehicles Test Procedure (WLTP) or the EPA Federal Test Procedure. The range can be expressed in miles, kilometer or other units based on the region. In this set of definitions, we stick to the European convention of using kilometer.
+4. Available Range (R, in km): It is the maximum distance that can be driven by an electric car based on the current state of charge of the battery. 
+5. Energy consumption per kilometer (D, in kWh/km): When an electric car is tested using a standardised driving cycle, the EV efficiency is the energy consumed from the batteries per unit distance drive. In some cases, the energy drawn from the grid to charge the battery is considered as well. It can be expressed in kilowatt-hour per kilometer (or) kilowatt-hour per mile. 
+6. MPGe or miles per gallon equivalent: MPGe is the distance in miles traveled per unit of electric energy consumed by the vehicle. The ratings are based on United States Environmental Protection Agency (EPA) formula, in which 33.7 kilowatt-hours (121 megajoules) of electricity is equivalent to one gallon of gasoline.
+7. Motor power (Pm, in W): It is the power delivered by the motor to the wheels for propulsion. The motor power is positive or negative based on whether the car is driving or under regenerative braking. The motor power can be expressed as a product of the motor torque, Tm and the motor rotational speed, wm and the units normally used are watts (W), kilowatts (kW) or horsepower(hp). The rotational speed is normally expressed in radians per second (rad/s) or rotations per minute (rpm). The torque is normally expressed in newton-meter (Nm).
+
+    Pm = Tm * wm
+
+where
+Pm is motor power (W)
+Tm  is motor torque (Nm)
+wm is rotation speed (rad/s)
+
+
+Ideally, an electric car must have a high range, low energy consumption per kilometer and a high MPGe. The following formula can be used to connect the above parameters 
+
+    R = Ebatt/D = (BSOC /100)*Enom /D
+
+where
+R is available range of EV (km)
+Ebatt is current battery capacity (kWh)
+D is the Energy consumption per kilometer (kWh/km)
+BSOC is battery state of charge, SOC (%)
+Enom is nominal battery capacity (kWh)
+
+**Note on EV range:**
+
+It must be noted that the range of an electric car is dependent on various parameters of which four are important. First and foremost is the energy consumed by the car. When a car travels at a higher speed, generally more energy is consumed due to friction and air resistance. Hence, less driving range is possible.
+
+The second parameter is the efficiency of the battery which depends on several parameters including the ambient temperature, discharging current and the aging of the battery.
+
+Third is the driving style. For example, city driving is very different from highway driving. That is why the EPA provides separate fuel economy estimates for MPGe for city, highway and combined. The final parameter is the energy consumed by on-board accessories like the air conditioning system, battery cooling systems etc.   
+
+For example, go to https://www.tesla.com/en_EU/models and to the section ‘Range per charge’. You can see how the range of the car is influenced by the weather, speed, AC system and wheel size. While the results of the tool cannot be generalized for all cars, it gives a good indication of the behavior. 
+
+
+---
+
+#### 2. Introduction to Technology of EVs   2.1 Operation of an Electric Car and Key Parts   Quiz
 
