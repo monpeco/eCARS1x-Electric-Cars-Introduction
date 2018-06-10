@@ -95,3 +95,89 @@ Scroll down to the bottom of the page and under the heading “Country incentive
 
 #### 1. EVs in the Energy Transition   1.3 Policy Perspective of EV   Quiz
 
+---
+
+#### 1. EVs in the Energy Transition   1.4 Combining Perspectives   Introduction
+
+### Introduction
+
+In this section of this module, you can watch our panel discussion about how the three perspectives of technology, business and policy are key to the growth of EVs. The panelists are the instructors you have previously met during the course: Professor Pavol Bauer for the technology perspective, Professor Frank Rieck for the business perspective, and Professor Margot Weijnen for the policy perspective. The panel is moderated by the course coordinator: Gautham Ram Chandra Mouli. Gautham Ram is as a postdoctoral researcher at Delft University of Technology working on electric cars and their charging technology.
+
+The panel discussion is cut into five parts, each with a distinct question. These are:
+
+1. Why should I buy an electric car?
+2. When will the price of electric cars become lower than that of gasoline cars, i.e. When are EVs cheaper?
+3. Range anxiety is still an issue with EVs. How can technology, policy and business help overcome this challenge, i.e. how to overcome the fear of an empty battery?
+4. How would electric vehicles contribute to our economy and what will change in the business model, i.e. How do EVs change the economy?
+5. Why are the three perspectives of technology, policy and business required for the uptake of EVs, i.e. Why take these three perspectives?
+ 
+
+---
+
+#### 1. EVs in the Energy Transition   1.4 Combining Perspectives   1. Why should I buy an electric car?
+
+### 1. Why should I buy an electric car?
+
+**Why should I, as a common man, buy an electric vehicle today?**
+
+Well from the technological perspective, it is clear that electric vehicle is environmentally friendly.
+It has a significantly higher efficiency than combustion engine vehicle.
+
+Aside from that we have less need for the regular maintenance but there is some small
+maintenance but much less than the combustion engine because there are significantly less
+moving parts
+
+ there are also other advantages like there is no noise produced from the engine,
+ 
+ it can easily accelerate, you can accelerate as a supercar
+ 
+ it doesn't rely
+on fossil fuels, therefore it can contribute to energy transition
+
+
+**from a business perspective, I should buy an electric vehicle today?**
+
+At the end it's more cost-effective, it's cheaper.
+
+Already now you see that for buses and some trucks where they make total cost of ownership calculations,
+they find that the vehicles today, the electric vehicles today,
+can compete with the traditional diesel trucks and buses.
+
+But also for the private user, businessmen, it will be cheaper in the end.
+It's not the sticker price of course, which at this moment is higher
+than the traditional vehicle, but you see that you can earn this difference back in a very short period of time.
+
+**from a policy perspective why should I buy electric car today.**
+
+from a public policy perspective, government has many reasons
+to convince people to buy electric cars.
+Especially in cities and along major transport corridors,
+we see that public health suffers a lot from traffic and pollution.
+
+So for the sake of cleaner air, electric cars are a great choice.
+
+Moreover, electric vehicles nicely fit in with energy transition goals
+and with climate policy goals, as my colleagues already pointed out.
+
+As we have seen in many countries, rebates on the purchasing price and fiscal incentives
+have been quite effective you know, so far in stimulating the sales of electric cars.
+
+The downside of this, however, is that as soon as you remove those financial incentives,
+you know, sales stagnate immediately.
+
+What we have also learned, I think, from the scheme supplied so far,
+is that we have to make a clear distinction between just private drivers and the ones, you know,
+who drive for business and buy their car, you know, as a business asset.
+
+
+They have a very different behavior and the latter group, where the car is a business asset,
+is far more rational in its decision making on the buying of an electric car,
+than the general, you know, private car owner is.
+
+---
+
+#### 1. EVs in the Energy Transition   1.4 Combining Perspectives   2. When are EVs cheaper?
+
+
+
+
