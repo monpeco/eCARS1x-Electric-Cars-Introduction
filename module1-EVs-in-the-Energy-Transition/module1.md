@@ -178,6 +178,80 @@ than the general, you know, private car owner is.
 
 #### 1. EVs in the Energy Transition   1.4 Combining Perspectives   2. When are EVs cheaper?
 
+### 2. When are EVs cheaper?
+
+**When will the purchase price of an electric car become equal to or even lower than the gasoline car in the future and how will technology, policy and business will help in doing that?**
+
+Tech: It will very soon, I am expecting around 2025, the purchase price becomes cheaper
+than classical combustion engine car. May be sooner.
+
+The reason for that is the development of technology,
+in fact, the biggest price part of the car is the battery price.
+We saw that in last five years that there is a huge dive in the battery price.
+Just five years ago, 1 Kilowatt per hour of battery was almost 1000 dollars.
+Now we have at the level of 200 and its still going down with mass production,
+
+There is another driver apart from the mass production of all parts,
+
+interchangeability also is an important factor and the advances in power electronics and energy conversion
+
+Business: It’s all about economies by lack of scale.
+You could say, it's a new technology.
+If you look at the production numbers, they are sometimes one-offs
+and in many cases now its small series.
+
+However, the statement that the sticker price is higher is even not true today,
+because if you look at the Tesla Model S, its mentioned before,
+and you compare with the Maserati with the same acceleration, looks and quality.
+The Maserati is more expensive than the Tesla Model S to buy.
+
+And now, the last years, you see that private lease is coming up.
+You can private lease, for instance, a Nissan Leaf already for below 400 Euro
+and if you look at that price, which is in fact the total cost of ownership price,
+
+but then in the lease contract its cheaper than the competition and that’s because the energy is included.
+So, the electricity and the fastened fast charging is included so it's already cheap.
+So, i think 2022 is certainly the breakeven
+
+Policy: I think, you know, we are talking about when are electric cars really the cheapest alternative,
+the best alternative in the mass car market.
+
+It is evident though, that governments around the world
+have been very active to make electric mobility competitive.
+The sooner, the better!
+
+governments have been investing a lot in research, development and demonstration programmes
+to speed up the introduction of electric vehicles in the market.
+
+For governments, what is the complicating factor is that there are more interests
+at stake than just stimulating electric cars for air quality reasons
+or energy transition reasons or climate policy reasons.
+
+There are also things such as economic policy, which includes industrial policy and the government
+also has to protect established industrial interest.
+
+But, the governments and the national industrial champions are now competing
+for the future electric vehicle market in terms of technology leadership, manufacturing facilities
+and that is mainly because of employment opportunities involved.
+
+One of the signals for here is, for instance, Maroš Šefčovič, one of the vice-presidents
+of the European Commission, in October 2017, he announced that Europe is going to make billions
+of Euros available to support the establishment of large scale battery manufacturing facilities in Europe
+and that is with the aim to create 4 to 5 million new jobs.
+
+Tech: a very important point and it is automatic vehicle driving.
+This will also from a technology point of view completely change the usage of vehicle.
+You can imagine that you are coming home, getting out of the car, which is driving automatically,
+and the car itself goes to the charging spot somewhere nearby, maybe even further away,
+charging itself and stays ready again when you need it.
+
+---
+
+#### 1. EVs in the Energy Transition   1.4 Combining Perspectives   3. How to overcome range anxiety?
+
+
+
+
 
 
 
