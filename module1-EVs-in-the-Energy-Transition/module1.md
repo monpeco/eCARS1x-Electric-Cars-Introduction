@@ -249,9 +249,95 @@ charging itself and stays ready again when you need it.
 
 #### 1. EVs in the Energy Transition   1.4 Combining Perspectives   3. How to overcome range anxiety?
 
+### 3. How to overcome range anxiety?
+
+** how can technology, policy and business help in overcoming this range anxiety problem with electric cars?**
+
+ I think this arrange anxiety has two important sides.
+One is the mindset and the other one is the technology but let's have a look at the mindset.
+I like to compare it to the mobile phone and this mobile phone which I have now,
+I have to charge it every day even if I use it extensively twice a day
+because I see the great advantage of this technology and, this is the mindset.
+
+So, we have to really get used to that to the idea that charging often is some part of our mobility plan.
+
+The technological part is partly infrastructure which is a charging infrastructure,
+the charger itself and, it's a chicken-and-egg problem.
+So, we have to really get more charging spots in order to get more cars.
+
+The drop in the battery price
+also takes care that the car itself will have a battery with the higher capacity
+and, if I have a car with the hundred kilowatt hours battery capacity, I can drive 500 kilometers
+which is comparable to the combustion engine filled up car driving range.
+
+Business: range anxiety in fact it's a transition problem I think and a serious problem.
+
+we are four centuries used to traveling about one hour per day
+and that average is already possible with an electric car but that's not enough, of course.
+There are cases that you have to travel long distances and drive more than you like to drive normally
+
+There are already good solutions for that.
+The range extended vehicles
+which there are in several forms for passenger cars but also for buses and trucks.
+
+They create another anxiety and that's fuel anxiety and those drivers get used to the luxury of electric driving
+and they hate to go to the pub because that's costing money
+and costing time, travel time, so if you can do it smarter with a full electric vehicle
+they would love to do that and maybe in the extreme cases,
+the fuel cell electric vehicle is also a solution to get no anxiety in the end.
+
+I think the nicest example at this moment in time
+is what's happening at this moment in the trucking industry.
+The trucking industry was always said it's impossible to make an electric vehicle
+which fits the application of a truck and that's proven not true
+
+and, the city distribution you see very nice examples
+that an electric truck is more effective than a diesel truck
+that can do a lot of other things but driving in a city is not the best value,
+
+There are already positive business cases there and, even for the long-haul
+which is not in fact long-haul, but long distance that you have to drive to deliver your cargo,
+it's so that if you have one driver, the driver has to stop by the regulation of driving time
+and resting periods in Europe and that's after three hours and a half an hour,
+they have to stop for 45 minutes and we know that scheme
+from supercharging of the unit Tesla Model S and X already.
+
+Another point that we learned from the Tesla semi is that one big handicap of trucks is
+that they cannot take hills very good.
+
+The traditional track sometimes drops to 30 kilometres an hour
+but the electric truck is so powerful that it keeps that 80 kilometres an hour.
+That's time and in the business it's all about this time.
+
+Tech: I like to add one very exciting technological concept which is on-road charging,
+using contactless charging for charging while driving.
+This concept can greatly contribute to the range anxiety.
+
+Policy: You know it's about adopting new routines and that change you know in our behavior
+is probably a much tougher challenge than making the new technology
+and the new infrastructure timely available
+and in many countries, we do already see that governments
+you know, California's one example are co-funding the rollout of charging infrastructure
+but then if they do this, you know they usually don't do it only for battery electric vehicles you know.
+Governance usually refrain from making a choice between different technologies
+so they usually also support the roll out of hydrogen refueling infrastructure
+for fuel cell electric cars
+
+but, besides you know actual co-funding it's even more important that government
+sets the rules of the game for the industries that are competing for this new market
+
+and one of the issues here is, you know, it's not only technical standards
+but it's also the charging protocol for electric vehicles.
+Now for example, the Netherlands has adopted what we call an open charging protocol.
+
+You can compare it I think with the roaming agreements that exists between telecom providers
+but what good is the open charging protocol
+if our European neighbors and the rest of Europe do not adopt it?
 
 
+---
 
+#### 1. EVs in the Energy Transition   1.4 Combining Perspectives   4. How do EVs change the economy?
 
 
 
