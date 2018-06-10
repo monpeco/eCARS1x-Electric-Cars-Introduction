@@ -339,5 +339,69 @@ if our European neighbors and the rest of Europe do not adopt it?
 
 #### 1. EVs in the Energy Transition   1.4 Combining Perspectives   4. How do EVs change the economy?
 
+### 4. How do EVs change the economy?
+
+**what do you think that electric vehicles can do for our economy and what will be the change in the business models from a country perspective right and why should we go towards that?**
+
+Tech: I think that the contribution especially to energy transition, the transition to renewable energies,
+is really huge and, I would like to say that, for example,
+the storage capacity of electric vehicles now the best ones is about hundred kilowatt hours
+for vehicle can mean a huge capacity for storing the energy
+from the wind or solar or other sources from your energies
+
+and, this contribution can be huge and, also cost saving can be also important.
+For example, if I calculate that we have now more than seven million vehicles in the Netherlands
+and if 1 million from them will be electrical vehicle with the huge capacity of hundred kilowatt hours,
+then we are coming to the capacity of 100 Giga watt hours
+and now the peak power in Netherlands is about 35 gigawatts.
+
+So, we can cover the whole country energy needs for more than 3 hours by energy vehicles.
+Of course, you need to have a technology for that.
+For example, a vehicle to grid we are developing in the university in Delft such a technology,
+but this is something which will change the whole landscape also for the private user.
+It can be that the houses or the user can be more energy neutral.
+
+Business: Electric vehicles are three to four times as efficient as the combustion vehicle in practice.
+So, you're saving a lot of energy and if you make an electric vehicle capable for storing energy
+or even harvesting energy like the startup company Lightyear is planning to do.
+
+It's earning money standing still and maybe even driving.
+Self-driving vehicles are anyhow earning money anyhow.
+50% of the cost of transportation is the chauffeur.
+
+The nice thing of electric vehicles is that there are also the platform for optimization
+and, I already talked about driverless vehicles, autonomous vehicles.
+They are easy to automate and easy to connect to each other.
+So, road trains completely driverless or accidents can be avoided.
+
+
+Traffic jams can be avoided by automation.
+So, that's a very important economic value for the future and if you add that up
+electrification, automation and maybe even sharing
+that we make smarter use of the capacity of passenger cars or trucks.
+Trucks are driving for more than 50% empty.
+That's not transportation I would say.
+Then you could imagine that during this century that apart from the investment,
+that the transportation cost of man and good could be for free and, that is saving a lot of cost
+and cost and money is what is available for other more added value missions
+
+Policy: preventing premature deaths
+that are caused by bad air quality does contribute to the economy.
+You know healthy people that live longer can contribute more to the economy and to society.
+
+We should also not underestimate to what extent clean air may become an important factor
+and to attract talented people and innovative businesses to our cities you know
+and both are key to economic growth in the future
+
+are going to be places where you can only move around if not by you know, bike or walking,
+where you can only move around with you know, electric mobility.
+
+around the world are doing to develop applications or for example blockchain technology
+to accommodate the almost real-time interactions of electric vehicles
+that are being recharged with the electricity system.
+
+---
+
+#### 1. EVs in the Energy Transition   1.4 Combining Perspectives   5. Why take these three perspectives?
 
 
