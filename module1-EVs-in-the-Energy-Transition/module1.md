@@ -404,4 +404,68 @@ that are being recharged with the electricity system.
 
 #### 1. EVs in the Energy Transition   1.4 Combining Perspectives   5. Why take these three perspectives?
 
+** why are these three perspectives of technology, business and policy important for the development of electric vehicles and why is that this development cannot happen with just one but needs all the three parties working together.**
+
+Tech: I think we already gave an answer today which showed a couple of examples when
+the policy is influencing the rollout of electric vehicles,
+when the policy is influencing the technological part,
+the technology can influence policy, the same about business.
+
+Business: Electric vehicles in fact are part of the energy transition that makes it complex.
+It's not only about a vehicle.
+It's about the energy chain and how we use energy or misuse energy and that in itself
+is already something where you have to connect business.
+
+The technology is constantly improving and otherwise we do wouldn't have anything to offer.
+But the business should be there if we can't earn money with it or create wealth with it,
+it will stop in the end
+
+Policy: New technology cannot always conquer the markets on its own merits because you
+know we are not talking about a new coffee machine here.
+Electric vehicles will drastically change the transport and mobility system on one side
+and the electricity system on the other side.
+
+We are talking about critical infrastructures systems here.
+Critical infrastructures are systems in which technologies and institutions have co-evolved
+over a long time to reinforce each other and these systems are deeply embedded in our economy.
+
+Government intervention is needed not only to push the first hoard of consumers toward
+electric vehicles but to do a lot more.
+We already mentioned need for new standards; technical standards for the vehicle
+and its components, for the batteries and also operational standards
+such as charging protocols.
+
+So for a massive adoption of electric vehicles we are going to need new legislation,
+regulations and that is even more true if electric vehicles are really going to be vital
+components of the electricity system because everything hinges on
+the reliable supply of electricity, the whole economy.
+
+Government has a very interesting role.
+On the one side it has a stake in these important infrastructure systems.
+It is creating change in these important infrastructure systems.
+
+You know it has many different policy interests, many different policy goals that need to be balanced.
+
+an adaptation of the **consumers and behavioral consumers** and I would like to mention a few
+bizarre examples I read.
+Some demands like electric vehicles should make some noise not to scare people.
+
+new technologies come with new risks
+and vulnerabilities and one of these new risks and vulnerabilities has for instance relations
+with cyber security risks
+
+which are already I think quite urgent in
+terms of needing to be addressed and will be even more so when we move to self-driving vehicles.
+We are entering a new world and we cannot I think forsee all the new risks nor all
+the new opportunities that are ahead of us.
+
+ this is a much more fundamental change this is really a revolution in which transport
+electricity and IT and telecommunication systems will become interdependent and merging to
+an extent that we have not seen before.
+
+---
+
+#### 1. EVs in the Energy Transition   1.4 Combining Perspectives   What do you think?
+
+
 
