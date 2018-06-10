@@ -467,5 +467,108 @@ an extent that we have not seen before.
 
 #### 1. EVs in the Energy Transition   1.4 Combining Perspectives   What do you think?
 
+### What do you think?
+
+Introduction to the final assignment
+In module 4, you will be asked to complete the final assignment for this course. In this 
+assignment you will write a report with recommendations for the municipality of a city of 
+your choice. On the next page, you will find the detailed description of the assignment 
+and a grading rubric. In module 4, you will use the self-assessment tool to assess your 
+assignment.
+
+As you complete this course, it is helpful to prepare for your report by taking notes. 
+These notes will help develop your narrative for your assignment. You can either keep a 
+separate file (for instance in a word processor) with your notes.  We have also enabled 
+the Notes tool in edX, which allows you to highlight text and add notes. You can highlight 
+this paragraph, for example, and add your draft narrative text there. Click on Notes, at 
+the top of this page to access prior notes you have taken.
+
+Every week we will propose questions that you can use as a guide for your final assignment 
+and will help you to structure your ideas . You can find the first preparation questions 
+below.
+
+**Preparation final assignment: write a report with recommendations**
+Now that you have heard the opinions of the track heads from the technology, business and 
+policy tracks, can you already think of ways to implement electric mobility in your city 
+from each of these three perspectives? Can you think of any trade-offs between the 
+perspectives? For instance, a policy implementation that might not be so advantageous for 
+local businesses, or for the development of the technology? You might want to note down 
+your answers to these questions, so you can use them when you do the final assignment in 
+module 4.
+
+---
+
+#### 1. EVs in the Energy Transition   1.4 Combining Perspectives   A Look Ahead to the Final Assignment
+
+**A Look Ahead to the Final Assignment**
+
+Description of the self assessed assignment
+Please note: this is the description of the final assignment that you will be submitting in 
+module 4. It is posted here to provide details and allow you to prepare your ideas throughout 
+the course.
+
+A city of your choice has been experiencing a lot of problems with congestion on their main 
+roads and excessive air pollution. They have hired your consulting firm to help them solve 
+these problems. They are especially interested in the opportunities that electric cars have 
+to offer. They would like this topic to be further researched from three viewpoints: technology, 
+business and policy. 
+In the end they would like to receive a well-argued report with a focus on the following points:
+
+* Please name the city that you chose to write your report for and give a short description with relevant data.
+* How does electric mobility help against congestion and pollution as compared to other solutions and modalities? (You could think of strengths and weaknesses of electric mobility in solving these problems).
+* Try to argue from a perspective of your choice (technology, business, policy), while also including arguments from the other perspectives.
+* When writing your report, take all three points of view into account: technology, business and policy. (eg. Giving large subsidies on the purchase of electric cars may increase electric mobility, but it could bankrupt the government and create wrong incentives).
+* You are encouraged to use some sources, numbers and/or figures to support your arguments.
+
+Try to include the above points in a report of at least 500 words. If you include external sources, 
+please reference these and provide your word count.
+
+We have created a rubric that you will use to assess your report in your self review to help 
+provide clarity on the grading criteria. It can be downloaded here.
 
 
+---
+
+#### 1. EVs in the Energy Transition   1.4 Combining Perspectives   Join the discussion
+
+### Join the discussion
+
+Share your views with us
+After watching the panel discussion, you might wish to share your views on the potential of EV-based mobility. That's why we invite you to join the discussion with us. You can participate by completing the following tasks:  
+
+First, add a post in the discussion forum answering the following questions: 
+
+1. What do you think is the first step in your country/city to start a shift towards electric mobility?
+2. What do you think are good strategies to accelerate the energy transition through electric vehicles that can be implemented in your city/country?
+
+Next, give feedback to two of your peers' posts.
+
+To come up with good arguments to support your views, you can take into account the following discussing topics regarding the potential of EV-based mobility:
+
+* Current and future electricity system
+* Cost of EV and charging vs cost of ICE car and gasoline 
+* Regional mobility characteristics 
+* Average distances 
+* Charging and grid bottlenecks 
+* Emissions due to electricity system needed 
+* Integration issues
+
+---
+
+#### 1. EVs in the Energy Transition   1.5 Summary   Summary
+
+### Summary
+
+Let's wrap up
+To summarize the first module of the MOOC, we have the seen the benefits of electric vehicles from a technology, business and policy perspective. At the same time, the challenges for electric vehicles from the technology, business and policy domains were looked into as well. Primarily electric vehicles have the advantage of higher efficiency, lower emissions, convenience and lower cost of ownership. The higher efficiency and lower emissions are true from a well-to-tank, tank-to-wheel and well-to-wheel perspective. With the use of renewable sources of electricity like wind and solar energy, net emissions from a fuel perspective can be brought down to nearly zero. Further, the EV battery can be used as a storage for renewable energy and can support the grid via vehicle-to-grid technology.
+
+Electric vehicles have low maintenance requirements and even the brake shoes of an electric car last longer than conventional cars due to regenerative braking. Due to the low maintenance requirements of electric car and lower fuel prices, electric cars have already begun to have a lower total cost of ownership in several vehicle segments. The fact the electric cars have large storage space, are quieter, don't have gears and can be refueled at home provides a great deal of convenience as well. At the same time, electric cars face the challenge of high purchase price owing to high battery prices and range anxiety due to a limited range of current cars and long charging times. Charging infrastructure for electric vehicles will play a key role in helping overcome range anxiety and encourage the ownership of electric vehicles. With better charging infrastructure and the emergence of cars with bigger batteries, it is expected that the faced today by electric vehicles will be overcome in the future.
+
+Governments all over the world are faced with multiple policy challenges, and they play a key role in facilitating the transition to sustainable mobility and renewable energy. Ultimately, it is the duty of a government to safeguard and promote the public interest. In the case of mobility, this would imply pushing for a transition to electric vehicles and electricity generation from renewable sources to prevent air pollution and mitigate climate change, and at the same time ensuring new jobs are created to replace the ones lost in the fossil fuel industry.  Different governments may choose different ways to achieve this transition. One way is to add more electricity generation capacity for meeting the demand of electric cars. A cheaper way perhaps would be to utilize the demand elasticity of industry and consumers through smart ICT infrastructure to match demand with supply from renewable sources. In this way, the electricity and transport sector would become interlinked like never before.
+
+
+Do you want to know more?
+If you want to know more about the topic of Electric Vehicles in general, you can take a look at the additional resources, by clicking the resources button from the top menu.
+
+
+---
