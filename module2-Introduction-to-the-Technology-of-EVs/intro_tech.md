@@ -238,3 +238,26 @@ For example, go to https://www.tesla.com/en_EU/models and to the section ‘Rang
 
 #### 2. Introduction to Technology of EVs   2.1 Operation of an Electric Car and Key Parts   Quiz
 
+---
+
+#### 2. Introduction to Technology of EVs   2.1 Operation of an Electric Car and Key Parts   Learning Material
+
+How does an electric car work? 
+In the next video, we will take a deeper look into an functioning of an electric car by using an animation. We thank the YouTube channel ‘Learn Engineering’ for allowing the use of this video for the MOOC. 
+
+[How does an EV work?](https://youtu.be/3SAxXUIre28)
+
+**Simplicity**
+Did you notice that the powertrain of an electric car is not all that different fundamentally from the Do It Yourself Electric Toy car video we sent you a few weeks back by email ? The basic building blocks are the battery and the motor driving the wheels. On this, we would be required to include the power electronics, control, on-board charger, doors, air conditioning, brakes, audio system, etc., etc, :P
+
+
+**The electric motor vs the internal combustion engine**
+
+
+The main benefit of the electric motor when compared to the internal combustion engine is its ability to provide peak torque at the nearly all speeds, even at zero speed. This is achieved by a clever motor and motor drive design. This results in an electric car that accelerate super fast and does not require multiple gears for its operation. It is for this reason that the Tesla Model S P100D (Ludicrous mode) became the third fastest accelerating production car ever produced, with a 0-60 mph time of 2.5 seconds. Keep in mind that the LaFerrari and the Porsche 918 Spyder that are quicker than the Model S are small, two-seater, million dollar cars, while in comparison, the Model S is a four-door, family car with storage capacity and much lower cost. This goes to show the huge performance benefit of electric cars over internal combustion engine cars. 
+
+
+---
+
+#### 2. Introduction to Technology of EVs   2.1 Operation of an Electric Car and Key Parts   Quiz
+
