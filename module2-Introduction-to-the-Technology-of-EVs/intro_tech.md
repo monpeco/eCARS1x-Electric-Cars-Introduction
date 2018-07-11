@@ -305,3 +305,36 @@ When the hybridization rate is higher than 0.38, we can then consider it as a fu
 ---
 
 #### 2. Introduction to Technology of EVs   2.2 Types of Electric Vehicles   Lecture Notes
+
+### Lecture Notes
+
+#### Micro, Mild and Full hybrid
+In the previous lecture, we briefly looked at the concept of hybridisation rate and the three types of hybrid: micro-hybrid, mild hybrid (or semi hybrid) and the full hybrid. The parallel, series and parallel-series were basically different configurations of the full hybrid. The key feature of the full hybrid is that the electric drivetrain is capable of propelling the vehicle alone. With the micro or mild hybrid, this is not possible. Let us now look a bit closer at them:
+
+Micro-hybrid electric vehicles have the lowest contribution of electric power. In a micro hybrid, the electric motor is used for applications such as stop/start actions of the engine and small scale of regenerative braking. The start/stop functionality, for example, can help in turning off the engine automatically at a stop light and hence reduce the fuel consumption. The electric drivetrain, however, cannot be used to supply additional torque to the wheels.
+
+A mild-hybrid EV has all the functionality of a micro-hybrid. In addition, it has features that allow it to improve the drawbacks of fossil fuel vehicles by improving the efficiency levels. The ICE consumes more fuel and emits more pollutants when coasting, braking or idling. In those situations the electric motor will assist in order to increase the efficiency levels by helping the engine operation. In a mild hybrid, the electric drive motor can assist the engine when extra power is needed, but it is incapable of propelling the vehicle alone.
+
+A full hybrid car has the characteristics that the electric motor provides at least 40% of the maximum range power as additional torque. These type of cars include a large motor and battery bank; this feature gives the opportunity to reduce the size of the combustion engine especially in a parallel or series-parallel configuration. This configuration involves adding complexity to the powertrain structure in order to provide movement from both motor and engine interchangeable, which increase the cost-weight of the vehicle.
+
+The three types of HEV can be summarized using the table below:
+![types of HEV](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/11290163ad8f4dc7c09a3cb55b352d0d/asset-v1:DelftX+eCARS1x+1T2018a+type@asset+block/Table_Types_of_HEV_2.2_eCARS1x.png)
+
+#### Note on Extended-range electric vehicles (EREV)
+A common term you might come across often is an extended-range electric vehicle or EREV. EREV is also referred to as range-extended electric vehicle (REEV), and range-extended battery-electric vehicle (REBEV). An EREV is the same as a series hybrid electric vehicle. The cars have a ‘range extender’ that drives an electric generator, which in turn charges a battery. The battery supplies the vehicle's electric motor with electricity. The most commonly used range extender is an internal combustion engine, but fuel-cells can be used. The ideology is used to have a fuel source on-board  for charging the battery to extend the range of the EV. Depending on the car type, the EREV can be charged from the grid by using a charging plug. 
+
+#### Type of Electric Vehicles: Summary
+There are three main types of EVs: hybrid electric vehicles (HEVs), plug-in hybrid electric vehicles (PHEVs) and battery electric vehicles (BEV or just EV). There are many different potential HEV and PHEV configurations, but in general, a (P)HEV has an electric drivetrain like an EV, plus a fuel-burning engine of some type that can recharge the batteries periodically. The advantage of an HEV is that the fuel-burning engine, in general, is most efficient in only a small range of operating conditions (speed and load). Also, at this most efficient operating point, the fuel-burning engine usually produces its lowest levels of emissions. Unfortunately, while driving, the engine in the car has to run under a wide range of speeds and loads, and thus it is far less efficient and produces much greater emissions than it would if it could run at its most efficient point all the time.
+
+Electric drivetrains are also most efficient at only one point, but the reduction in efficiency for other speeds and loads is far less. Therefore, an HEV can run the fuel-burning engine at its most efficient point for battery charging and can use the electric drivetrain to take up all the slack under other conditions. In this way, emissions are much less than for the fuel-burning engine driving the car by itself, and fuel economy can be significantly improved. Hybrid technologies extend the usable range of EVs beyond what an all-electric vehicle can achieve with batteries only. Being a hybrid or plug-in hybrid would allow the vehicle to operate on only batteries within an urban/polluted area, and then switch to its combustion engine outside the urban area.
+
+Below you'll find schemes of the working principle of all types of electric vehicles:
+![working principle](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/aa58b42b9b9065d114fa871a339c0417/asset-v1:DelftX+eCARS1x+1T2018a+type@asset+block/Schemes_EV_Principles_2.2_eCARS1x.png)
+
+
+This table compares and summarizes the main types of EV
+![main types of EV](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/9dbf809a847336029155fdb79b9d16ab/asset-v1:DelftX+eCARS1x+1T2018a+type@asset+block/Table_Summary_Types_of_EV_2.2_eCARS1x.png)
+
+---
+
+#### 2. Introduction to Technology of EVs   2.2 Types of Electric Vehicles   Quiz
