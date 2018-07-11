@@ -261,3 +261,47 @@ The main benefit of the electric motor when compared to the internal combustion 
 
 #### 2. Introduction to Technology of EVs   2.1 Operation of an Electric Car and Key Parts   Quiz
 
+---
+
+#### 2. Introduction to Technology of EVs   2.2 Types of Electric Vehicles   Lecture 2: Types of EV
+
+Types os vehicles: Drive-train and Fuel
+* Conventional ICE Vehicle
+* Alternative fuel ICE Vehicle
+* Electric Vehicle
+
+Conventional ICE Vehicle
+* Gasoline
+* Diesel
+
+#### Alternative fuel ICE Vehicle
+* Autogas (liquefied petroleum gas, LPG)
+* Natural Gas (Compressed natual gas - CNG, Liquefied natural gas - LNG)
+* Biofuel (Bioalcohol, Biodiesel, Biogas)
+* Hydrogen
+
+In all forms of ICE vehicles, the drive train is mechanical.
+In contrast, electric vehicles use an electric drivetrain for their propulsion.
+
+### Types of Electric Vehicle
+* Hybrid Electric vehicle (HEV), 
+* Plug-in hybrid electric vehicles (PHEV),
+* Battery electric vehicle (BEV), 
+* Fuel cell Electric vehicle (FCEV),
+* and in the future solar EV.
+
+### Hydridization rate (HR)
+The hybridization rate, is a measure used to describe how strongly the powertrain is hybridized.
+This level is determined by the role that the electric motor has in the performance of the car.
+It is defined as the ratio of electric power to total power and is described by this equation
+where P-em is the power provided by the electric machine and P-ice is the power provided by
+the internal combustion engine.
+
+When the hybridization rate value is smaller than 0.24, this HEV is considered to be a micro hybrid.
+When the hybridization rate is between 0.24-0.38, it is then distinguished as a semi or mild hybrid.
+When the hybridization rate is higher than 0.38, we can then consider it as a full hybrid.
+
+
+---
+
+#### 2. Introduction to Technology of EVs   2.2 Types of Electric Vehicles   Lecture Notes
