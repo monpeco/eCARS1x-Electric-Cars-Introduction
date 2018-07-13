@@ -425,3 +425,50 @@ Level 3 charging is often called as fast charging.
 ---
 
 #### 2. Introduction to Technology of EVs   2.3 Basics of EV Charging   Lecture Notes
+
+### Lecture Notes
+
+
+USA and Japan have Type 1 AC, Type 4 Chademo DC, Combo 1 AC-DC and Tesla’s proprietary AC connector.
+
+Europe has Type 2 AC, Type 3 AC, Type 4 Chademo DC and Combo 2 AC-DC China has Type 2 based AC and its own DC GB/T connector.
+
+With respect to car manufacturers, American and European car manufacturers have adopted CCS/Combo and Japanese car manufacturers have adopted Chademo.
+
+### EV Charging modes
+Mode 1
+This mode entails slow AC charging via a regular electrical socket. This is no communication between the vehicle and the charging point. It is required to provide an earth wire to the EV and have an external means of protection against faults. In many countries, this form of charging is considered to be unsafe and is illegal.
+
+Mode 2
+This mode provides for slow AC charging from a regular electricity socket. In addition, the charging cable is equipped with an In-Cable Control and Protection Device (IC-CPD), that is responsible for control, communication and protection (including residual current protection).
+
+Mode 3
+This mode entails both slow or semi-fast charging via a dedicated electrical socket for EV charging. The charger (or the charging station) has an EV specific socket, generally corresponding to Type 1 or Type 2. A charging cable with an EV plug on both sides is used to connect the EV to the charger. The charging station is responsible for the control, communication and protection of the charging process (including residual current protection). This mode is commonly used for public charging stations and can facilitate integration with smart grids.
+
+Mode 4
+Mode 4 uses a dedicated electrical socket for EV charging like Mode 3. The charger typically has a charging cable with an EV charging plug. Mode 4 is specifically used for DC charging, which is recommended for fast charging of an electric vehicle. In the case of DC charging, the AC/DC converter is located within the charging station. The control, communication and protection functions are built into the charging station.
+
+### EV charging cases
+There are also three charging cases depending on the location of the charging cable of the charging system.
+
+Case A: The EV charging cable is connected to a domestic power outlet on one end and has a dedicated connector for EV charging on the other end, like a Type 1 or Type 2 connector. The charging is done using the vehicles on-board charger. This case is usually associated with modes 1 or 2.
+
+Case B: The charging cable has a dedicated connector for EV charging on both sides like a Type 1 or Type 2 connector. The charging is done using the vehicles on-board charger. Usually mode 3. This is the most currently used configuration for public charging with a high degree of flexibility.
+
+Case C: One end of the cable is fixed to a dedicated charging station, supplying DC through the cable to the vehicle. This case is generally used for mode 4. The EV connector is chosen to be compatible with EV inlet.
+
+### Battery parameters
+As seen in the previous lectures, the battery is the most important part of the EV. It determines the cost of the EV to a large extent and its range. Hence, understanding the battery performance parameters is very important. It forms the basis of understanding battery charging. Let us now look at a few main performance parameters we should know:
+
+* `Nominal voltage (Vnom, in V)`: It is rated voltage of the battery when it is fully charged. When a battery is discharged or is loaded, the voltage reduces gradually to a lower value, `Vbatt`
+* `Nominal current (Inom, in A)`: It is rated current of the battery for charging or discharging. Typically, the actual charging/discharging current Ibatt <= Inom. Further, electric cars normally have much higher peak discharging current than the peak charging current.
+* `Ampere-hour (Qnom, in Ah)`: An ampere hour is a unit of electric charge that corresponds to the charge transferred by a steady current of one ampere flowing for one hour, or 3600 coulombs. The commonly seen milliampere hour (mAh) is one-thousandth of an ampere hour (3.6 coulombs). The total amount of energy that can be stored in the battery can be calculated by the product of battery ampere hours and battery nominal voltage. The effective ampere hour of a battery is determined by the charging/discharging current as described by Peukert’s law.  This results in the following formula: 
+
+         Enom = QnomVnom
+
+* `Charge/discharge Efficiency (in %)`: When charging or discharging a reversible battery, neither can all the energy sent to a battery be effectively stored nor can all the available electric charge inside a battery be retrieved successfully. The efficiency is used to represent the ability of a battery to store/retrieve electric charge or energy. The efficiency of a battery is not always constant even in one cycle, and it depends on the SOC, cell temperature and current. When we talk about efficiency, generally it refers to the overall cycle efficiency, which means the efficiency of a whole cycle.
+
+
+---
+
+#### 2. Introduction to Technology of EVs   2.3 Basics of EV Charging   Lecture 4: EV Charging Process and Smart Charging
