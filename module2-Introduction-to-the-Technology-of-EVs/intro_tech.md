@@ -338,3 +338,90 @@ This table compares and summarizes the main types of EV
 ---
 
 #### 2. Introduction to Technology of EVs   2.2 Types of Electric Vehicles   Quiz
+
+
+---
+
+#### 2. Introduction to Technology of EVs   2.3 Basics of EV Charging   Lecture 3: AC and DC Charging
+
+### Lecture 3: AC and DC Charging
+
+#### Introduction
+Fast, reliable and safe charging possibilities are required in order to help the roll-out 
+of electric mobility. This problem can be considered as a ‘chicken and egg’ problem. Drivers 
+will not consider the electric mobility reliable and comfortable unless there are charging 
+facilities in predictable ranges. In contrast, the investors of the charging infrastructure 
+would expect quick and regular income after the installation, but it probably will be a 
+mid-term process. It should be noted that this trend can be considered similar to the 
+relationship between the roll-out of the gasoline cars and the petrol stations almost a 
+century ago.
+
+
+#### AC and DC charging
+In this lecture we will look at the two types of charging possible with EVs: AC and DC 
+charging. We will also review the different types of EV connectors used the world over.
+
+In the early days of mobile phones and smartphones different connectors were used for 
+mobile phones by different manufacturers. A similar situation is now occurring for EVs. 
+Finally, we will look at the division of charging powers in the ‘Levels’ and consider 
+fast charging.
+
+An EV charging system has three main parts.
+1. The first part is the AC-DC power electronic converter. As mentioned earlier, this converts the power from AC to DC.
+2. The second part is the charging cable with a connector that is used to feed power from an external power supply to the electric car via the vehicle inlet.
+3. Finally, a charge controller on the external power supply side
+and a battery management system on the vehicle side are responsible for the communication,
+protection, and control of the charging process.
+They control the charging current and stop the charging in case of overcharging,
+complete draining short circuit or overvoltage of the battery.
+It also ensures that the temperature and balancing between the cells are optimal for long battery life.
+
+The on-board charger which is an AC-DC power converter, converters the AC power to DC power
+suitable for charging the battery.
+
+What we have seen till now is referred to as AC charging.
+The size and weight of the onboard charger are dependent on the maximum charging power.
+Typically, onboard chargers have a maximum power in the range of 1.9 to 22 kilowatt.
+If the charging power has to be further increased, then the charger will become bigger and heavier.
+
+However, due to size and weight restrictions inside the vehicle,
+the on-board charger is limited in size and weight as well.
+Therefore, the solution to increase the charging power, is to move the AC/DC converter outside the vehicle
+and placed in an off-board charger.
+This is referred to as DC charging.
+
+With no size and weight restrictions,
+the off-board charger can have a maximum charging power in order of 50 to 350 kilowatt.
+In case of DC charging, the off-board charger has an AC-to-DC power converter,
+and DC power is directly fed to the car via DC charging vehicle inlet.
+
+While Tesla cars use the same vehicle inlet for both AC and DC charging,
+all other manufacturers have separate vehicle inlet for AC and DC charging as shown in the picture.
+
+For **AC charging**, Type 1 connector is commonly used in USA and Japan,
+while the Type 2 and the less common Type 3 connectors are used in Europe.
+Tesla uses its proprietary connector in USA-Japan while it uses the type 2 connector in Europe.
+Other parts of the world are often adopting the Type 2 connector as it can work with both
+230V single phase and 400V three phase connections.
+
+In terms of **DC charging**,
+the CHAdeMO Type 4 connector is used by Japanese car manufacturers globally,
+while the American and European car manufacturers have adopted a combined AC/DC connector
+called the CCS-COMBO.
+
+Interestingly, Tesla uses the same connector meant for AC charging for DC charging as well.
+In the case of China, they have their own DC connector.
+The conclusion is that EV industry has not agreed on one specific connector,
+so depending on the car brand, country and whether it is AC or DC charging,
+the connector varies in shape, size, and pin configuration.
+
+With AC and DC charging the charging power can be split into three levels – Levels 1 to 3.
+Generally, level 1 refers to charging power up to 10kW, while level 2 refers to charging power up to 50kW.
+Both AC and DC charging can provide Level 2 charging power.
+Beyond 50kW, only DC charging using an offboard charger
+is used to provide charging power as high as 350kW.
+Level 3 charging is often called as fast charging.
+
+---
+
+#### 2. Introduction to Technology of EVs   2.3 Basics of EV Charging   Lecture Notes
