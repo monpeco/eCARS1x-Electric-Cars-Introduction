@@ -472,3 +472,26 @@ As seen in the previous lectures, the battery is the most important part of the 
 ---
 
 #### 2. Introduction to Technology of EVs   2.3 Basics of EV Charging   Lecture 4: EV Charging Process and Smart Charging
+
+the charging process of an electric vehicle battery has two distinct regions,
+the **constant current** and constant voltage charging region.
+
+**Fast charging** is typically done in the constant current region.
+
+In case of both AC and DC charging, control and communication
+are established between the EV and the charging station using protocols
+like the IEC 61851 and ISO 15118.
+
+
+The **C-rate** is a vital charging parameter as high C-rates lead to increase in battery losses
+and lowering of the battery lifetime. Hence, to ensure the longevity of the EV battery pack, lower C-rates are preferred.
+
+**Smart charging** facilitates the control of charging power of the electric vehicle.
+Through this, EVs can be controlled to charge from the sources like wind or solar,
+when energy prices are lower and charge at a time when the loading on the electricity network is low.
+This way easing the load on the network.
+
+---
+
+#### 2. Introduction to Technology of EVs   2.3 Basics of EV Charging   Lecture Notes
+
