@@ -495,3 +495,33 @@ This way easing the load on the network.
 
 #### 2. Introduction to Technology of EVs   2.3 Basics of EV Charging   Lecture Notes
 
+### Recap: EV Charging estimation
+A short charging time is very important for the electric car industry, as the users of ICE cars are used to refuel their car in minutes. To provide insights into the most important factors that influence the charging time, a basic understanding of the underlying equations is needed.
+
+### Charge/Discharge rate (C-rate):
+This parameter describes the magnitude of current drawn from or input into the battery, in terms of the nominal ampere-hour of the battery. A battery cell discharging at a rate of 1C will deliver its nominal ampere-hour for 1hr whilst a cell discharging at 2C will deliver its nominal capacity in 0.5hr. Maximum charge rates for currently available Li-ion cells are usually between 3C and 6C, even though there are some high power Li-ion cells that are optimized for 2C to 25C continuous discharge. This equation can be used to calculate the C-rate.
+    
+     C-rate=(Ibatt/Qnom)
+
+#### Charging power and current: 
+A general equation for estimating the charging power is as follows:
+
+    Pch= VbattIch
+
+Where Pch is the charging power in W, Vbatt is the voltage of the EV battery in Volts and Ich is the current at which the battery is charged in Amperes. High currents will thus lead to faster charging, but can also cause the battery and the charger to overheat or to degrade faster, causing a shorter life-span. The maximum charging power is dependent on the maximum voltage and current that the battery can handle and the charger can provide. Charging a mobile phone happens with a current in the order of 1-4 Ampere, while fast charging an EV is done with a current in the order of hundreds Ampere.
+
+#### Charging power and energy delivered: 
+The energy that is put into the battery is the charging power integrated over time, which, assuming zero losses, is defined as:
+    
+    Ech= ∫ Pch dt
+
+In this equation Ech is the energy that is put into the battery in kWh. If Pch is the average charging power in kW, over the timespan tch  in hours.
+Ech=Pch tch 
+
+#### C-rate: 
+C-rate is the ratio of the charging power to the nominal energy capacity of the battery. As the charging current increases, so does the C-rate
+
+    C-rate= Pch/Enom
+
+where Pch is the charging power, in kW and Enom is the nominal energy capacity of the battery, in kWh.
+
