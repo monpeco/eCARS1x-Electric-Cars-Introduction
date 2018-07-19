@@ -525,3 +525,40 @@ C-rate is the ratio of the charging power to the nominal energy capacity of the 
 
 where Pch is the charging power, in kW and Enom is the nominal energy capacity of the battery, in kWh.
 
+#### Note on units for power and energy
+It is common that people confuse power and energy. So it is important that we understand it right. Energy is the time integral of power. Or simply put, energy is the product of power and time, when power is a constant.
+
+    Energy = Power x Time
+
+The **units** of energy are **joules, watt-hour or kilowatt-hour**. 
+
+While the units of **power** are **watts, horsepower or kilowatts**. Simple conversions can be made:
+
+* 1 kilowatt (kW) = 1000 watts (W)
+* 1 horsepower = 745.7 watts 
+* 1 watt-hour (Wh) = 3600 joules (J)
+* 1 kilowatt-hour (kWh) = 1000 watt-hours
+
+#### Typical examples of EV and charging capabilities
+In the table below, you can find a list of various EVs, their maximum charging power in kW, possibility for single or three-phase charging, battery capacity in kWh, range in km and option for off-board charging. Not all cars can do three-phase charging. This is important to keep in mind while building charging infrastructure. The list is not comprehensive but gives a general overview.
+
+![charging](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/fe1e41f2f74db72fc815f218b1efe0da/asset-v1:DelftX+eCARS1x+1T2018a+type@asset+block/AC_and_DC_charging_capabilities_table_2.3_eCARS1x.png)
+
+
+Curious about other cars? Then use this [tool](https://www.evbox.com/electric-cars/) made by EVbox and this [tool](https://newmotion.com/en/drive-electric/cars) by NewMotion to enter the car model. Further, the EPA and NEDC car ranges of different cars can be seen at https://pushevs.com/electric-car-range-efficiency-epa/ and https://pushevs.com/2017/05/23/electric-car-range-efficiency-table-nedc/.
+
+The tools together show the electric range, battery capacity, connector type, single or three-phase charging possibilities, charging power, charging times and plug location. Play around!
+
+Word of caution: We have noticed that the values on the above website are not always updated and could be incorrect at times. Further, the specifications of the car change with every model year as well. So please always check the brochure and/or with the car manufacturer before making any decisions. The aim of this exercise to play with these websites is to help you to get familiar with different cars and their technical parameters.
+
+#### Number of EVs and charging infrastructure
+As can be seen in the figure below, an EV charging infrastructure roll-out begins with slow charging infrastructure in several locations. At some point in time the first fast-charging stations are added to the charging infrastructure and the number of slow charging points peaks. When there is a reliable network of fast and slow charging infrastructure, the large-scale EV roll-out can start.
+
+![infrastructure](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/d0d544afc247535cb7c625e643898e40/asset-v1:DelftX+eCARS1x+1T2018a+type@asset+block/relation_between_number_of_EVs_and_the_charging_infrastructure_during_the_roll-out_process.png)
+
+#### Want to learn more?
+A detailed analysis of EV charging and EV batteries from a technology perspective is covered in the follow up MOOC, Electric cars: Technology and from a business perspective in the follow up MOOC, Electric cars: Business. You'll be able to sign up for these courses shortly!
+
+---
+
+#### 
