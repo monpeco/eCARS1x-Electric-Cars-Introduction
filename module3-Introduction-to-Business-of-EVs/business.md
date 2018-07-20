@@ -68,6 +68,21 @@ Also, this lecture from Frank will help you answer the following questions:
 
 ---
 
-#### 3. Introduction to Business of EVs   3.2 Electrification, a sustainable business disruption   Lecture 2: Electrification, A Sustainable disruption
+#### 3. Introduction to Business of EVs   3.2 Electrification, a sustainable business disruption   Lecture Notes
+
+You are recommended to read the following sections from the below article:
+
+2. Electrification of Automotive
+
+3.2 Zero emission
+
+3.3 Zero Energy
+
+Note: section '2.1 The step to Smart e-Mobility' is recommended for next module, so you can skip it for now
+
+The article is "Automotive, the Future of Mobility, F.G. Rieck, C. Machielse, J.H.R van Duin, EVS30 International Battery, 
+Hybrid and Fuel Cell Electric Vehicle Symposium", which you can [download](https://www.researchgate.net/publication/320490142_The_Future_of_Mobility) from this page
+
+---
 
 
