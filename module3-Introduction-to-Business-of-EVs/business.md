@@ -52,3 +52,22 @@ Yes, you will be hearing more such interesting content in today’s lecture by F
 ---
 
 #### 3. Introduction to Business of EVs   3.2 Electrification, a sustainable business disruption   Lecture 2: Electrification, A Sustainable disruption
+
+
+The efficiency of electric vehicles is already three times better than combustion vehicles and the difference is only going to increase in the future. Is this the only reason why we should switch to electric mobility? No, there are many other critical ones and this lecture will talk about them in detail.
+
+Also, this lecture from Frank will help you answer the following questions:
+
+* Why is electrification the most important sustainable disruption in mobility?
+* What are the main drivers for urban mobility? 
+* Are emissions starting to be unacceptable from a standpoint of Health?
+* Who are the main polluters in the urban environment?
+* What are the unique features of Electric Vehicle?
+
+
+
+---
+
+#### 3. Introduction to Business of EVs   3.2 Electrification, a sustainable business disruption   Lecture 2: Electrification, A Sustainable disruption
+
+
