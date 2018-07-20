@@ -32,4 +32,23 @@ For this module we have made another glossary of terms. You can download it [her
 
 ---
 
-#### 3. Introduction to Business of EVs   3.0 Introduction   Mr. Robert Animation
+#### 3. Introduction to Business of EVs   3.1 Electric Vehicle Mobility Business   Lecture 1: Introduction to Electric Vehicle Mobility Business
+
+### Lecture 1: Introduction to Electric Vehicle Mobility Business
+
+
+Did you know that the first in-wheel motor electric & hybrid car in the world was made in 1900 itself? 
+
+Yes, you will be hearing more such interesting content in today’s lecture by Frank G. Rieck, Applied Research Professor - Future Mobility. He will be introducing you to electric vehicle mobility business. Also, this lecture will help you answer the following questions:
+
+* Were electric cars already present at the beginning of the automotive era?
+* Where is the power source for today’s electrification?
+* VOLTA, TESLA and NIKOLA – What are they doing currently?
+* What makes the car so popular and why should it be electrified now?
+* What are the three positive disruptive technologies are coming together in this decade?
+
+![july2017](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/d1687e22f286e98c4f6fe268b110ae18/asset-v1:DelftX+eCARS1x+1T2018a+type@asset+block/GartnerHypeCycle.png)
+
+---
+
+#### 3. Introduction to Business of EVs   3.2 Electrification, a sustainable business disruption   Lecture 2: Electrification, A Sustainable disruption
