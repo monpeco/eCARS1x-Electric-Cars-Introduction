@@ -556,9 +556,22 @@ As can be seen in the figure below, an EV charging infrastructure roll-out begin
 
 ![infrastructure](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/d0d544afc247535cb7c625e643898e40/asset-v1:DelftX+eCARS1x+1T2018a+type@asset+block/relation_between_number_of_EVs_and_the_charging_infrastructure_during_the_roll-out_process.png)
 
-#### Want to learn more?
 A detailed analysis of EV charging and EV batteries from a technology perspective is covered in the follow up MOOC, Electric cars: Technology and from a business perspective in the follow up MOOC, Electric cars: Business. You'll be able to sign up for these courses shortly!
 
 ---
 
-#### 
+#### 2. Introduction to Technology of EVs   2.4 Summary   Module Summary
+
+### Module Summary
+
+To summarize this module, we have seen the key parts of an electric car and understood the important roles played by the traction battery, the electric motor and the power electronic converters. The size of the battery in kilowatt-hours and the energy consumption of the car play a  key role in determining the available range that one can drive. The energy consumption of the car is affected by many factors like weather conditions, battery degradation, driving style and power consumed by vehicle accessories.
+
+The operation of the electric car itself is fundamentally very simple: the energy from the battery is used by the motor for driving and the power electronics helps in controlling the power flow. The electric motor together with the motor drive has the key benefit of providing close to full torque at all speeds and hence electric cars do not have gears and much simpler transmission system. Cooling of the traction batteries is becoming common practice so as to increase the battery lifetime. A deeper look at the operation of an electric car and the individual components would be dealt with in the follow-up MOOC Electric cars: Technology.
+
+There are different types of electric vehicles, though the word ‘electric vehicles’ normally refers to battery electric/all electric/plug-in electric vehicles. The types of EVs are hybrid electric vehicles (series, parallel, series-parallel type), plug-in hybrid electric vehicles, battery electric vehicles and fuel cell electric vehicle. On the basis of the hybridisation rate, the hybrid electric vehicles can be further divided into micro, mild and full hybrids. In case of micro and mild hybrid, the electric power is not large enough to propel the vehicle alone. The battery size and electric drivetrain power progressively increase as you move from a hybrid vehicle to an all electric vehicle. The benefit of the PHEVs and HEVs compared to the BEVs is that the range anxiety is overcome for long distance drives due to the gasoline powered internal combustion engine. At the same time, this is the inherent disadvantage as well that these cars are not emission free at their tail-pipes.
+
+Charging infrastructure for electric cars will play a key role for the uptake of EVs in the future. EV charging is possible by AC charging and DC charging. Typically fast charging over 50kW is done using DC charging. There are several charging plug  types (Type 1,2,3,Chademo, Combo), charging modes (Modes 1,2,3,4) and charging power levels (Level 1,2,3). Type 1 chargers are predominantly used in USA/japan for AC charging and Type 2 chargers are predominantly used in Europe for AC charging. The charging process of a lithium battery has two distinct charging regions namely, the constant current charging (CC) region and the constant voltage (CV) charging region. Fast charging is typically done in the CC region. Currently, EV charging is uncontrolled and the charging starts as soon as the EV is connected and it occurs at a fixed power. With smart charging, the charging process can be changed both in time and power to be controlled based on say, solar energy production or energy prices. By smart charging, the EV charging can be made cheaper, more efficient and more environmentally friendlier.
+
+In the next module, we will delve deeper into the business aspects of EVs. Till then, we will leave you with these activities that will connect all the concepts learnt this module. May the (electromotive) force be with you!
+
+---
