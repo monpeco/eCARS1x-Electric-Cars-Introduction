@@ -100,3 +100,16 @@ Yes, the time for autonomous vehicles is very near! This lecture will provide th
 
 #### 3. Introduction to Business of EVs   3.3 Automation, the need for smart E-Mobility   Lecture notes
 
+You are recommended to read the following sections from the below article:
+
+2.1 The step to Smart e-Mobility
+3.4 Zero congestion
+3.5 Zero accident
+Article  - Automotive, the Future of Mobility, F.G. Rieck, C. Machielse, J.H.R van Duin, EVS30 International Battery, Hybrid and Fuel Cell Electric Vehicle Symposium
+
+The article is the same as the one previously mentioned in section 3.2. If you haven't done so, you can [download](https://www.researchgate.net/publication/320490142_The_Future_of_Mobility) it from this page. 
+
+
+---
+
+#### 
