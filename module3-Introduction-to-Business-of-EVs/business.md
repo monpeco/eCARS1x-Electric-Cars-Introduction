@@ -85,4 +85,18 @@ Hybrid and Fuel Cell Electric Vehicle Symposium", which you can [download](https
 
 ---
 
+#### 3. Introduction to Business of EVs   3.3 Automation, the need for smart E-Mobility   Lecture 3: Automation, the need for smart E-Mobility
+
+“In the past car, cars gave people the freedom of mobility. In the future, cars will go one step further and free people from driving, giving them the freedom of time. “- NIO
+
+Yes, the time for autonomous vehicles is very near! This lecture will provide the answer to why we need automated automobiles and how it is going to shape the future. Also, this lecture from Frank will help you answer the following questions:
+
+* Are congestions a logistic necessity? 
+* Is mobility without accidents possible?
+* How is the acceptance of automated driving in different countries? 
+* What does SAE Levels for Autonomous driving mean? 
+
+---
+
+#### 3. Introduction to Business of EVs   3.3 Automation, the need for smart E-Mobility   Lecture notes
 
