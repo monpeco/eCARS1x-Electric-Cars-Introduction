@@ -126,5 +126,22 @@ Frank Rieck will help you answer the below questions:
 
 ---
 
-#### 
+#### 3. Introduction to Business of EVs   3.5 Summary   Summary
+
+To start summarizing this week, first,  you were introduced to the business of Electric Vehicles. We then saw in detail the different disruptions - electrification, automation and connectivity.  
+
+We saw that electric cars were already present at the beginning of automotive era. In 1900, they engineered an in-wheel electric motor which is still regarded as very advanced today. We looked at few of today’s EV manufacturers - Volt, Tesla, Nikola. The European driving scheme was also explained and how it will support the trucking industry. In the Gartner hype cycles, we saw that three positive technologies , autonomous cars, electric vehicles and car sharing, are coming together in one decade. 
+
+In the second lecture, we saw that electrification is the most important positive sustainable disruption.  We understood the need for electrification by studying the current situation of urban mobility. Citizens are looking for good air quality, less traffic noise and less congestions. We saw that electric mobility could be the solution for it. We are spilling our resources and improved usage of solar energy could lead to energy positive vehicles in the future. Regenerative braking is an another step towards energy positive vehicles. Finally, fast charging infrastructure fed with 100% renewable energy is needed.
+
+Smart e-mobility is possible only when electrification and automation come together. Traffic congestions and hence cost of congestions could drastically be brought down in the case of smart e-mobility. Also, mobility without accidents is possible. But for both of these to happen, acceptance of automated driving and master plan for mobility are crucial. We then saw the examples of Park Shuttle in Rotterdam Airport and AGV in Rotterdam harbour. Smart e-mobility is promising and at the EU level, it will give an 1 million additional jobs in the year 2030 and many more across the world! 
+
+In the final section, we saw that driving empty is a waste of cost and through connectivity, the total cost of ownership can be shared among many consumers. The examples of Car2Go, Prototype e-truck in Rotterdam and Picnic was discussed to support this. We looked that at 2022, EV’s will break even because of the economies of scale in the battery production and supply chain for the EV parts. This means that EV’s will have about the same showroom price as an internal combustion engine vehicle. To summarize, we have seen three disruptions, electrification, automation and connectivity, with six zeros connected to it – zero emission, zero energy, zero congestion, zero accident, zero empty and zero cost.
+
+In the next week, we will delve deeper into the policy aspects of EVs. Till then, we will leave you with these activities that will connect all the concepts you learnt this week. All the best! 
+
+
+---
+
+
 
