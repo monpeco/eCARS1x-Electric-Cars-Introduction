@@ -112,4 +112,19 @@ The article is the same as the one previously mentioned in section 3.2. If you h
 
 ---
 
+#### 3. Introduction to Business of EVs   3.4 Connectivity makes auto-mobility cost efficient   Lecture 4: Connectivity makes auto-mobility cost efficient
+
+Electric Mobility will not be a cost but an income. How is this possible? Is this even true?  Yes, but it’s all possible only with connectivity. Also, business-wise, the most challenging disruption is connectivity! 
+
+Frank Rieck will help you answer the below questions:
+
+* Why is connectivity an important part of electric mobility?
+* Can we earn money with empty vehicles? 
+* Should car ownership cost as much as a house?
+* Will electric cars become as cheap as combustion engine car?
+* What are the challenges ahead for Electric Mobility?
+
+---
+
 #### 
+
