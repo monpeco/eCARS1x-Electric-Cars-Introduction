@@ -22,4 +22,25 @@ Let us know your thoughts by posting in the discussion forum. Think of real-life
 
 ---
 
-#### 
+#### 4. Introduction to Policy for EVs   4.1 Policy Ambitions   Lecture 1: Policy Ambitions
+
+The learning goals of this first lecture on e-cars policy are:
+
+* Differentiating between what constitutes public interest and what does not
+* Understanding the role of electric mobility in public health policy
+* Understanding the role of electric mobility in meeting climate change goals
+* Inferring the meaning of EVs as a reservoir of flexibility
+* Realizing the importance of mobility in society
+* Understanding the role of electric mobility in economic policy
+
+---
+
+#### 4. Introduction to Policy for EVs   4.1 Policy Ambitions   Quiz part 1
+
+Additional materials for quiz
+In the video, Margot mentions the various pollutants emitted by IC engine cars and their impact on human health. One of the key pollutants is NOx. Let's now learn about some of the harmful effects of NOx emissions on human health and the environment. Please read through page 2 & 3 of the report on NOx emissions prepared by the United States Environmental Protection Agency (EPA). 
+
+You can download the report [here](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/6ba8e94daaed0c851d2b06828abee69f/asset-v1:DelftX+eCARS1x+1T2018a+type@asset+block/EPA_Nitrogen_Oxides.pdf). 
+
+The report is required for the Questions 2, 3 and 4 below. 
+
