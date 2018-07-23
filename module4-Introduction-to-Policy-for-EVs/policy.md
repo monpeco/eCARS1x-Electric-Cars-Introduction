@@ -44,3 +44,21 @@ You can download the report [here](https://prod-edxapp.edx-cdn.org/assets/course
 
 The report is required for the Questions 2, 3 and 4 below. 
 
+---
+
+#### 4. Introduction to Policy for EVs   4.2 Policies and Policy Instruments   Lecture 2: Policies and Policy Instruments
+
+In this video lecture, you will listen to Margot talk about the different policy instruments available to governments and how governments use them to achieve their policy goals.
+
+The learning goals for this lecture are:
+
+* Understanding how air quality standards are measured and monitored
+* Understanding how air quality standards are enforced through law and regulation,
+* Understanding financial incentives to consumers through the example of EVs in California
+* Describing other options besides EVs to enforce air quality standards
+* Understanding the concept of an emissions trading system as a policy instrument to decrease greenhouse emissions
+* Understanding the role of technology development and innovation as a policy instrument to curb greenhouse emissions through example of Clean Mobility package
+* Realizing why governments are reluctant to choose one technology over another
+
+---
+
