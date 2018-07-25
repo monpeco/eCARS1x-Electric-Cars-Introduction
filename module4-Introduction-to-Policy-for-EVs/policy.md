@@ -62,3 +62,26 @@ The learning goals for this lecture are:
 
 ---
 
+#### 4. Introduction to Policy for EVs   4.3 EVs in Infrastructure System   Lecture 3: EVs in the Infrastructure System
+
+
+
+In this video lecture, you will study some important characteristics of infrastructure systems – transport and electricity. Margot then applies these concepts to EVs, and will explain the impact of electric mobility on the transport and electricity infrastructure systems.
+
+The learning objectives for the third lecture are the following:
+
+Understanding the evolution of electricity and transport infrastructures through the concept of complex adaptive systems
+Recognizing infrastructure systems as socio-technical systems which can adapt through the decisions and actions of its social actors
+Understanding the traditional role played by governments in the transport and electricity sectors and how the government’s role has evolved over time
+Understanding the role of institutions in interaction between social and technical dimension of infrastructure systems
+Describing the characteristics of Complex Adaptive Socio-Technical Systems
+Understanding the consequences of EVs on the electricity infrastructure system
+
+
+---
+
+#### 
+
+
+
+
