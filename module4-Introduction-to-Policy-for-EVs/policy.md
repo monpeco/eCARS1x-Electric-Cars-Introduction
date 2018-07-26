@@ -70,17 +70,35 @@ In this video lecture, you will study some important characteristics of infrastr
 
 The learning objectives for the third lecture are the following:
 
-Understanding the evolution of electricity and transport infrastructures through the concept of complex adaptive systems
-Recognizing infrastructure systems as socio-technical systems which can adapt through the decisions and actions of its social actors
-Understanding the traditional role played by governments in the transport and electricity sectors and how the government’s role has evolved over time
-Understanding the role of institutions in interaction between social and technical dimension of infrastructure systems
-Describing the characteristics of Complex Adaptive Socio-Technical Systems
-Understanding the consequences of EVs on the electricity infrastructure system
+* Understanding the evolution of electricity and transport infrastructures through the concept of complex adaptive systems
+* Recognizing infrastructure systems as socio-technical systems which can adapt through the decisions and actions of its social actors
+* Understanding the traditional role played by governments in the transport and electricity sectors and how the government’s role has evolved over time
+* Understanding the role of institutions in interaction between social and technical dimension of infrastructure systems
+* Describing the characteristics of Complex Adaptive Socio-Technical Systems
+* Understanding the consequences of EVs on the electricity infrastructure system
 
 
 ---
 
-#### 
+#### 4. Introduction to Policy for EVs   4.4 The Social Dimensions of EVs   Lecture 4: The Social Dimensions of EVs
+
+What are the social challenges posed by a world full of EVs ? Why should governments be careful while designing incentive schemes ?  Find out the answers to these interesting questions in this lecture on the social dimensions of EV policy by Margot.
+
+
+The learning goals for this fourth lecture are:
+
+* Recognizing the important role played by public values while designing schemes for provision of essential services
+* Defining the meaning of mobility
+* Differentiating between social challenges to mobility services in urban and rural areas
+* Recognizing the importance of autonomous EVs as a mobility solution
+* Describing the challenge posed by cyber-security in a world with EVs
+* Describing the challenge posed by data privacy in a world with EVs
+* Recognizing the social challenges to be kept in mind while designing stimulation schemes
+* Understanding what factors influence the users choice to buy an electric vehicle
+
+---
+
+
 
 
 
